@@ -1,39 +1,36 @@
 class Solution {
     public void nextPermutation(int[] nums) {
-        int ind1=-1;
-        int ind2=-1;
+        int i1=-1,i2=-1;
         for(int i=nums.length-2;i>=0;i--){
             if(nums[i]<nums[i+1]){
-                ind1=i;
+                i1=i;
                 break;
             }
         }
-        if(ind1==-1){
+        if(i1==-1){
             reverse(nums,0);
-        }
-        else{
-            for(int i=nums.length-1;i>=0;i--){
-                if(nums[i]>nums[ind1]){
-                    ind2=i;
+        }else{
+            for(int i=nums.length-1;i>0;i--){
+                if(nums[i]>nums[i1]){
+                    i2=i;
                     break;
                 }
             }
-            swap(nums,ind1,ind2);
-            reverse(nums,ind1+1);
+            swap(nums,i1,i2);
+            reverse(nums,i1+1);
         }
     }
-    void swap(int[] nums,int i,int j){
-        int temp=nums[i];
-        nums[i]=nums[j];
-        nums[j]=temp;
+    private void swap(int nums[],int i1,int i2){
+        int t=nums[i1];
+        nums[i1]=nums[i2];
+        nums[i2]=t;
     }
-    void reverse(int[] nums,int start){
-        int i=start;
-        int j=nums.length-1;
-        while(i<j){
-            swap(nums,i,j);
+    private void reverse(int nums[],int i){
+        int n=nums.length-1;
+        while(i<n){
+            swap(nums,i,n);
             i++;
-            j--;
+            n--;
         }
     }
 }
