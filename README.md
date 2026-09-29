@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/ashifa-1/Leetcode/tree/master/0031-next-permutation) |
 | [0152-maximum-product-subarray](https://github.com/ashifa-1/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/ashifa-1/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashifa-1/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ashifa-1/Leetcode/tree/master/0258-add-digits) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/ashifa-1/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ashifa-1/Leetcode/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/ashifa-1/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->
