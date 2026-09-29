@@ -1,12 +1,10 @@
 class Solution {
     public int sumOddLengthSubarrays(int[] arr) {
         int sum=0;
-        for(int i=0;i<arr.length;i++){
-            for(int j=i;j<arr.length;j++){
-                if((i-j+1)%2!=0){
-                    for(int k=i;k<=j;k++) sum+=arr[k];
-                }
-            }
+        int n=arr.length;
+        for(int i=0;i<n;i++){
+            int cnt=((i+1)*(n-i)+1)/2;
+            sum+=cnt*arr[i];
         }
         return sum;
     }
