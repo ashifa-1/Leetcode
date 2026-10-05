@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashifa-1/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/ashifa-1/Leetcode/tree/master/0031-next-permutation) |
 | [0152-maximum-product-subarray](https://github.com/ashifa-1/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ashifa-1/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashifa-1/Leetcode/tree/master/0001-two-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashifa-1/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
