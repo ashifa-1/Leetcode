@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashifa-1/Leetcode/tree/master/0022-generate-parentheses) |
+| [0412-fizz-buzz](https://github.com/ashifa-1/Leetcode/tree/master/0412-fizz-buzz) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashifa-1/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashifa-1/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Two Pointers
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ashifa-1/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/ashifa-1/Leetcode/tree/master/0412-fizz-buzz) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ashifa-1/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ashifa-1/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/ashifa-1/Leetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
