@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashifa-1/Leetcode/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/ashifa-1/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/ashifa-1/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ashifa-1/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashifa-1/Leetcode/tree/master/0022-generate-parentheses) |
 | [0412-fizz-buzz](https://github.com/ashifa-1/Leetcode/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/ashifa-1/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashifa-1/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashifa-1/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Two Pointers
@@ -35,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ashifa-1/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashifa-1/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashifa-1/Leetcode/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ashifa-1/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashifa-1/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ashifa-1/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
@@ -69,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashifa-1/Leetcode/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/ashifa-1/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
