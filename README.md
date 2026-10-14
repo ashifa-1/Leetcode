@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ashifa-1/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ashifa-1/Leetcode/tree/master/0412-fizz-buzz) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ashifa-1/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ashifa-1/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ashifa-1/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashifa-1/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ashifa-1/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashifa-1/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
