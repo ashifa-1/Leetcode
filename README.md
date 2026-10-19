@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ashifa-1/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/ashifa-1/Leetcode/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashifa-1/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/ashifa-1/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ashifa-1/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashifa-1/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -113,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashifa-1/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashifa-1/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
